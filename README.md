@@ -1,4 +1,4 @@
-# hostel-management 
+# hostel-booking 
 <br>
 WEB PROGRAMMING - TEAM 9
 <br>
